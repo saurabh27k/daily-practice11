@@ -9,6 +9,6 @@ Try–Except examples .<br>
 OOP: Class & Object .<br>
 Student class program. <br>
 Method calling .<br>
-Even / Odd <br>
+Even / Odd .<br>
 Factorial <br>
 Function definition & calling
