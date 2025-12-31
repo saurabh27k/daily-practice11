@@ -10,5 +10,5 @@ OOP: Class & Object <br>
 Student class program <br>
 Method calling <br>
 Even / Odd <br>
-Factorial. <br>
+Factorial <br>
 Function definition & calling.
